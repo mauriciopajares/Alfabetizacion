@@ -1,0 +1,45 @@
+body {
+    background-color: chocolate;
+  }
+
+canvas{
+    border: 2px solid rgb(7, 13, 32);
+    background-color:burlywood;
+    cursor: url(pincel.png) 0 30, auto;
+}
+
+.cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.div1,
+.div2{
+    border: 2px solid rgb(7, 13, 32);
+    display: inline-block;
+}
+
+.div2 p{
+    color: rgb(11, 8, 44);
+    text-align: center;
+}    
+
+.btncont {
+    border-radius: 10px;
+    padding: 4px 10px;
+    background-color:burlywood;
+    color: #fff;
+ }
+
+ #btnCalcular,
+ #btnBorrar,
+ #btnavanzar{
+    width: 100px;
+    height: 30px;
+    margin: 12px;
+    background-color: darkcyan;
+    border-radius: 10px;
+    color:orangered;
+    text-size-adjust: 20;
+ }
