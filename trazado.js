@@ -165,11 +165,11 @@ var rutasobjetos = [
 ];
 
 var rutaspalabra = [
-  "palabraa.png", 
-  "palabrae.png",
-  "palabrai.png", 
-  "palabrao.png",
-  "palabrau.png",
+  "palabraA.jpg", 
+  "palabraE.jpg",
+  "palabraI.jpg", 
+  "palabraO.jpg",
+  "palabraU.jpg",
 ];
 
 
